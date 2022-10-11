@@ -1,5 +1,5 @@
 #include "calculator.h"
-
+//by Neteli some text
 int Calculator::Add (double a, double b)
 {
 

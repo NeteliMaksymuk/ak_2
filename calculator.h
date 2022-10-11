@@ -1,6 +1,6 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
-
+//by Neteli some text
 class Calculator
 {
     public:
